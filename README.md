@@ -1,7 +1,7 @@
 <div id="header" align="center">
- <img src="/assets/app.gif" alt="Пример работы программы" width="300" height="200"></div>
+<img src="/assets/app.gif" alt="Пример работы программы" width="300" height="200"></div>
 
-    ---
+---
 
 ### :hammer_and_wrench: Languages and framework :
 <div   style="display: flex; ">
